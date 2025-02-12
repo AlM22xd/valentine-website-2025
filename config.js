@@ -12,7 +12,7 @@ const CONFIG = {
 
     // Floating Background Elements
     floatingEmojis: {
-        hearts: ['💕', '👸🏻', '💞', '💗', '💘'], // Heart emojis in background
+        hearts: ['💕', '👸🏻', '💞', '💗', '💓'], // Heart emojis in background
         bears: ['🐞', '🐛'] // Bear emojis in background
     },
 
@@ -27,7 +27,7 @@ const CONFIG = {
         second: {
             text: "How much?", // Second question
             startText: "This much!", // Text before percentage
-            nextBtn: "Next ❤️" // Next button text
+            nextBtn: "Next 💘" // Next button text
         },
         third: {
             text: "Will you be my Valentine...?", // Final question
