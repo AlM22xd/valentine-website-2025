@@ -12,7 +12,7 @@ const CONFIG = {
 
     // Floating Background Elements
     floatingEmojis: {
-        hearts: ['💕', '👸🏻', '💞', '❤️', '🏹'], // Heart emojis in background
+        hearts: ['💕', '👸🏻', '💞', '❤️', '💘'], // Heart emojis in background
         bears: ['🐞', '🐛'] // Bear emojis in background
     },
 
