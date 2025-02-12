@@ -85,25 +85,25 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: " Mimi"                    // Your Valentine's name
+pageTitle: "Will You Be My Valentine, princess? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
-    hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
-    bears: ['🧸', '🐻']                       // Bear emojis in background
+    hearts: ['💕', '💖', '💞', '💗', '💘'],  // Heart emojis in background
+    bears: ['🐞', '🐛']                       // Bear emojis in background
 }
 
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
+        text: "Do you like ur awesome hubbeh?",                   // First question
         yesBtn: "Yes",                             // Yes button text
         noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        secretAnswer: "I don't like you, I love you, silly goose... 💕"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
+        text: "How much?",          // Second question
         startText: "This much!",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
@@ -116,22 +116,22 @@ questions: {
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "lololol still not enough lololololol heh ",  // Shows above 5000%
+    high: "still not enough  💝",              // Shows above 1000%
+    normal: "hehhhhh 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    title: "Alhamdullilah! I'm the luckiest person ever",     // Celebration title
+    message: "Now come here and give me a kiss..",          // Celebration message
+    emojis: "❤️💕"                        // Celebration emojis
 }
 
 // Website Colors
 colors: {
-    backgroundStart: "#ffafbd",      // Background gradient start
-    backgroundEnd: "#ffc3a0",        // Background gradient end
+    backgroundStart: "#02075d",      // Background gradient start
+    backgroundEnd: "#DFC5FE",        // Background gradient end
     buttonBackground: "#ff6b6b",     // Button color
     buttonHover: "#ff8787",          // Button hover color
     textColor: "#ff4757"            // Text color
@@ -149,7 +149,7 @@ animations: {
 music: {
     enabled: true, // Music feature is enabled
     autoplay: true, // Try to autoplay (note: some browsers may block this)
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your music URL here
+    musicUrl: "https://res.cloudinary.com/duezs4vsz/video/upload/v1739366163/Cigarettes_After_Sex_-_Dark_Vacay_xoarab.mp3", // Paste your music URL here
     startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
@@ -237,7 +237,7 @@ Find more emojis at:
 Created with love for Valentine's Day 2025.
 Feel free to use and modify for your special someone!
 
-\- Louis Fontaine -
+\- Moumen Alkatawneh -
 
 ## 📜 License
 MIT License - Feel free to use this for your Valentine! 
