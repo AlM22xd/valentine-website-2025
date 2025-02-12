@@ -31,7 +31,7 @@ const CONFIG = {
         },
         third: {
             text: "Will you be my Valentine...?", // Final question
-            yesBtn: "Yes!", // Yes button text
+            yesBtn: "Yeh!", // Yes button text
             noBtn: "No" // No button text
         }
     },
@@ -45,8 +45,8 @@ const CONFIG = {
 
     // Final Celebration
     celebration: {
-        title: " Thank you for making me the happiest man alive..", // Celebration title
-        message: "Now come here and give me a kiss..", // Celebration message
+        title: "Shukran very much for making me the happiest man alive...", // Celebration title
+        message: "Te lutem me puth nje here", // Celebration message
         emojis: "🎉💕👩🏻‍❤️‍💋‍👨🏻" // Celebration emojis
     },
 
