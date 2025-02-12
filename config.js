@@ -40,7 +40,7 @@ const CONFIG = {
     loveMessages: {
         extreme: " OH EM GEE as they say LOLOLOALALL LALALL LAOLOLOL XDDDD 🥰👩🏻‍❤️‍💋‍👨🏻", // Shows above 5000%
         high: " WOAHHH THATS SO MUCH??!!", // Shows above 1000%
-        normal: "that's alot, but I don't think it'senough... " // Shows above 100%
+        normal: "that's alot, but I don't think it's enough... " // Shows above 100%
     },
 
     // Final Celebration
