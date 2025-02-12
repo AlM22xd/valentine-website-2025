@@ -12,7 +12,7 @@ const CONFIG = {
 
     // Floating Background Elements
     floatingEmojis: {
-        hearts: ['💕', '💖', '💞', '💗', '💘'], // Heart emojis in background
+        hearts: ['💕', '👸🏻', '💞', '💗', '👑'], // Heart emojis in background
         bears: ['🐞', '🐛'] // Bear emojis in background
     },
 
@@ -38,16 +38,16 @@ const CONFIG = {
 
     // Love Meter Messages
     loveMessages: {
-        extreme: "lololol still not enough lololololol heh", // Shows above 5000%
-        high: "still not enough 🥰💝", // Shows above 1000%
+        extreme: " OH EM GEE as they say lololololololalalalallalaal 🥰💝", // Shows above 5000%
+        high: "still not enough....", // Shows above 1000%
         normal: "not enough... " // Shows above 100%
     },
 
     // Final Celebration
     celebration: {
-        title: " I'm the luckiest person ever, Alhamdullilah", // Celebration title
+        title: " Thank you for making me the luckiest man alive..", // Celebration title
         message: "Now come here and give me a kiss..", // Celebration message
-        emojis: "❤️💕" // Celebration emojis
+        emojis: "🎉💕👩🏻‍❤️‍💋‍👨🏻" // Celebration emojis
     },
 
     // Website Colors
