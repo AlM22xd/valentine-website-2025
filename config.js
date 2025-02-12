@@ -45,7 +45,7 @@ const CONFIG = {
 
     // Final Celebration
     celebration: {
-        title: " Thank you for making me the luckiest man alive..", // Celebration title
+        title: " Thank you for making me the happiest man alive..", // Celebration title
         message: "Now come here and give me a kiss..", // Celebration message
         emojis: "🎉💕👩🏻‍❤️‍💋‍👨🏻" // Celebration emojis
     },
