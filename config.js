@@ -19,7 +19,7 @@ const CONFIG = {
     // Questions and Buttons
     questions: {
         first: {
-            text: "Do you like ur hubbeh?", // First question
+            text: "Do you like me, (AKA your hubbeh?)", // First question
             yesBtn: "Yes", // Yes button text
             noBtn: "No", // No button text
             secretAnswer: "I don't like you, I love you, silly goose... 💕" // Hidden message
