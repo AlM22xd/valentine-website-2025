@@ -31,7 +31,7 @@ const CONFIG = {
             nextBtn: "Next 💘" // Next button text
         },
         third: {
-            text: "Will you be my Valentine...?", // Final question
+            text: "Will you be my Lovebug Wifeh...?", // Final question
             yesBtn: "Yeh!", // Yes button text
             noBtn: "No" // No button text
         }
