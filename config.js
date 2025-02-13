@@ -8,10 +8,11 @@ const CONFIG = {
     valentineName: "Mimoza", // Your Valentine's name
     
     // Browser tab title
-    pageTitle: "Will You Be My Valentine, princess? 💝",
+    pageTitle: "Will You Be My Wifeh, princess? 💝",
 
     // Floating Background Elements
     floatingEmojis: {
+    
         hearts: ['💕', '👸🏻', '💞', '💗', '💓'], // Heart emojis in background
         bears: ['🐞', '🐛'] // Bear emojis in background
     },
